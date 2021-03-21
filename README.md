@@ -1,2 +1,3 @@
 # space-junk
-space dump
+space junk dumping place curated by the one and only Abby Durbridge
+
