@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Abby Gail Durbridge</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+*{
+  box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family:georgia;
+    font-style:italic;
+    font-size:12px;
+    line-height:100%;
+}
+.header {
+  padding: 60px; 
+  text-align: center; 
+  background: #132a5e;
+  color: white; 
+}
+.header h1 {
+  font-size: 24px;
+}
+.navbar {
+    overflow: hidden; 
+    background-color: #333;
+}
+.navbar a {
+      float: left;
+      display: block; 
+      color: white;
+      text-align: center;
+      padding: 14px 20px;
+      text-decoration: none;
+}
+.navbar a:hover {
+  background-color: rgb(170, 170, 170);
+  color: black;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.side {
+  flex: 5%;
+  Background-color: #8b8b8b;
+  padding: 30px;
+}
+.main {
+flex: 40%;
+background-color: #f1f1f1;
+padding: 20px;
+}
+.img {
+  background-color: #aaa;
+  width: 90%;
+  padding: 20px;
+}
+.footer {
+  padding: 20px; 
+  text-align: center; 
+  background: #ddd; 
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Abby Gail Durbridge</h1>
+  <p>A Curated Experience.</p>
+</div>
+
+<div class="navbar">
+  <a href="#">Personal Profile</a>
+  <a href="#">Project Idea</a>
+</div>
+
+  <div class="row">
+    <div class="side">
+      <a href="https://ibb.co/KsDTztg"><img src="https://i.ibb.co/KsDTztg/Screen-Shot-2021-03-20-at-10-21-03-pm.png" alt="personal display photo" border="0"></a>
+      <h3>Contact Details</h3>
+      <p>Abby Gail Durbridge</p>
+      <p>student id: s3794613</p>
+      <p> email: s3794613@student.rmit.edu.au</p>
+    </div>
+
+    <div class="main">
+      <h2>Blog: Mar 21, 2021</h2>
+      <h5>Mr Boogie's playhouse | Ep. 1</h5>
+      <a href="https://ibb.co/R0y4zp9"><img src="https://i.ibb.co/R0y4zp9/4465-EE25-CB3-C-44-C5-9387-0-F991-C0-F605-A.jpg" alt="Mr.Boogie" border="0"></a>
+      <br>
+      <p>Hi!</p>
+      <p>It's Mr. Boogie time up in here and I'm going to introduce Abby. I'm her aesthetically pleasing dog friend. Abby is of Filipino and British background hailing from Adelaide, SA. Not only does she speak Tagalog, Japanese and Korean are languages she has tried commanding me in.</p>
+      <p>Apart from throwing me the ball once in a while, Abby's pastimes include dancing and dabbling in a little artistry.</p>
+      <p>My pastimes include giving Abby chores to do once she gets home from work. Sometimes it's mopping, sometimes it's picking up the trash off the floor from my morning bin search. It's a real give-and-take relationship.</p>
+      <p>Speaking of which, I smell some clean laundry that is calling my name.</p>
+      <p>Peace out my homies.</p>
+      <br>
+      <h2>Blog: Mar 18, 2021</h2>
+      <h5>Space Dumpster Fire | Ep.3</h5>
+      <a href="https://ibb.co/TYhdh7j"><img src="https://i.ibb.co/TYhdh7j/4f828d05f82b8b7aedfe8be6a7d9d2a3.png" alt="tech meme" border="0"></a>
+      <p>photo credits: @techindustan</p>
+      <p>The emotions in the above meme hit a little too close to home.</p>
+      <p>Hi, my interest in IT begun from my early years in high school where a young female IT professional visited my school to encorage other woman to join the industry. 
+        While I took another road into the business and arts industry, the thought has stayed in my mind ever since. As the global pandemic hit, I had more than enough time on my hands to discover and nurture my interest in IT. 
+        It started with researching blockchain technology which led into cyber security and the career projections in that field; and considering what was happening at the time, I didn't have much reason to say 'no' to pursing the interest.</p>
+      <p>RMIT has been known amongst my community and circle of friends to be a reputable institution. Additionally, RMIT facilitates a complete online delivery that works perfect for me as I am working full-time at a SaaS company.
+        While I am an online student, I am also situated in Southbank, Melbourne which is very close to the CBD RMIT campus so I feel a tangible connection knowing the campus is well within reach if needed. </p>
+      </p>
+      <p>During my studies of this IT unit, I expect to have an introductory understanding of IT and its place in the business world and our world moving forward post pandemic. I aim to be equipped with skills that are employable and relevant attained through this unit and IT degree.</p>
+     <br>
+      <h2>Blog: Mar 17, 2021</h2>
+      <h5>Space Dumpster Fire | Ep.2</h5>
+      <p>So where do I see myself in the future. If I'm being honest, across my office floor in one of those fancy personal offices with a personal plaque that says: </p> 
+      <p><b>&emsp;Abby G. Durbridge: Chief Technology Officer</b></p>
+      <p>I've communicated this to my leadship and while a ways away, I am serious in my ambition to dethrone my boss' boss from <b>HIS</b> seat.</p>
+      <a href="https://www.linkedin.com/jobs/view/2452548188/?refId=vAMCTdCyWlCm8EtXP8E7Qg%3D%3D&trackingId=ucXwcwy%2BJshZhIXMv6MgyA%3D%3D">Job Advertisement</a>
+      <a href="https://ibb.co/VYF4LK5">Link to Screengrab</a>
+      <p>The appeal of a woman in an executive position, let alone in the technology or IT division is personally self satisfying, but is mearly a bonus.
+        The role's main duties are in leading, managing and scaling projects, disseminating executive directives, exisiting and new business developments, and nuturing career development opportunities for direct reports.
+        The ability to lead and inspire people while also influencing a company's direction is both exciting and achievable in my eyes.</p>
+      <p>To help secure this postion, experience in managing experienced software engineers and developers, while working in an array of information system and technology environments including: network architecture, information security management, and web software development to name a few.
+        The position also requires a relevant bachelor's degree and potentially a master's degree aswell. Confidence and experience in leading a team across multiple departments is a must in addtion to the following skills: </p>
+        <p>&emsp;- business management;</p>
+        <p>&emsp;- leadership;</p>
+        <p>&emsp;- decision making;</p>
+        <p>&emsp;- organisation;</p>
+        <p>&emsp;- communication.</p>
+      <p>Of the above skills, I feel comfortable in saying I have been fostering <b>leadership</b> and <b>communication</b> skills the most in my job positions to date.</p>
+      <p>After communicating to my leadership my career intentions, work has been made to foster skills I will require in the future. Starting with developing a internal training program for onboarding new hires. 
+        These skills in organisation and multi-department communication is being developed in this project. The next project on the horizon is to do an IT internship at my current job to gain on job experience while also shadowing people in the business who hold roles in would like to do in the future.</p>
+        <br>
+        <h2>Blog: Mar 16, 2021</h2>
+        <h5>Space Dumpster Fire | Ep.1</h5>
+        <p>Today, I've found myself in a black hole of discovering my personality types and of course being the Leo I am, I'm here to share this to you. A complete random yet lovely stranger reading my blog.</p>
+        <h4><a href="https://www.16personalities.com/profiles/3c54ef6c9b1e6">The Myers-Briggs test</a></h4> 
+        <p>As per the above link, I am an <b>ENFP-A</b>. I reasonate with the role assigned to my personality type which is the Campaigner. I care about helping and connecting with other deeply and struggle to make and feel comfortable with small talk.</p>
+        <h4><a href="https://ibb.co/56SWDp9">DISC Assessment</a></h4>
+        <p>What I find interesting about the DISC test is that it is skewed towards your working style within a workplace environment while also providing insight into to your natural style and comparing the two.
+          The test states my adapted behavioural style is a mixure of the Conscientious and Dominance style while and my natural behavioural style is very skewed towards the Influence style.</p>
+        <h4><a href="https://ibb.co/G3VkDpQ">Learning Style Test</a></h4>
+        <p>According to this test, my results show I am a Visual/Tactile Learner. I was hoping for a more definitive answer rather than being a mix bag to provide me with the ultimate learning and retention formula however, it can also be a positive that I have multiple ways I can receive and store information.</p>
+        <h5>Debrief</h5>
+        <p>I felt that the above personality test results weren't of a surprise and I reasonated stronger with both the Myers-Briggs test and the DISC assessment. I believe I can be a great addition to a working team due to my ability to both care for and influence others. 
+          In the 16personalities test, my strategy is outlined as People Mastery of whom is known to be able to handle stress well. Comparatively with the DISC Assessment, it outlines when under stress what I could need to succeed. These are a quick pace for stimulation, action and interaction and, prestige.</p>
+        <p>As I strongly focus on people however, desire a fast pace in my environment and working pace, I may clash with those who operate in a more calculated but slow pace. I have found in the workforce, I struggled to feel comfortable with those who couldn't keep up with my pace. 
+          However, through my own maturation process I understood that I could use this is a learning opportunity to teach and mentor my team members on efficient practices and operations, and because I move at a fast pace I wouldn't fall behind in doing so.</p>
+        <p>I believe personality tests are important in the initial stages of forming a team but also great during conflict resolution. I believe humans have the ability to grow and adapt if they're not in the most ideal team, however can definitely thrive when in a conducive environment they feel comfortable and productive in.
+          I would use the personality test to ensure there is a healthy balance of archtypes/personality types in each team to provide balance. I would also encourage individuals to communicate their needs, wants and expectations from the onset so each member can hold each person accountable for how much or how little they set out to contribute or acheive.</p>
+        </p>
+        <br>
+        <h2>Blog: Mar 15, 2021</h2>
+        <h5>Super Nova Pods| Ep.1</h5>
+        <p>Language barriers have been a focus of mine since studying Korean and Japanese at Monash University. There are many language learning and translation applications on the market that are making learning a language or getting by in a foreign country earlier for the end-user. 
+          However, I see a gap in the ease of learning a language for the unmotivated end-user, those who do not have access to learning resources or those who believe it is just “too hard”. There are many scenarios where better human connections can be made and perspective gained however are hindered by a language barrier.</p>
+        <p>My <b>project aim</b> is to alleviate the stress and hassle of language differences between the specific above demographic through the medium of NFC technology to facilitate ease of communication.</p> 
+        <p>NFC technology allows you to encode preferred personal data that can be received by an array of other clientele. Using an app on the sender’s phone, they would encode in their native language what they wanted to say and choose the language they want to communicate in. 
+          The app using advance translation software like Mirai Translate that leverages deep learning technology would be used to translate the input. The medium of NFC technology coming from the user’s device or external hardware can be tapped on the receiver’s mobile device or corresponding NFC hardware. Proceeding this, a link to the output will be available to the receiver to listen to or read the sender’s message.</p>
+        <p>I envision the obstacles in producing the project would be the following:</p>
+        <p>&emsp;- Conveying cultural nuances and context to each speaking party;</p>
+        <p>&emsp;- The communication at this stage is mostly one-way;</p>
+        <p>&emsp;- Using NFC hardware would have a negative environmental impact if not produce sustainably;</p>
+        <p>&emsp;- This may deter user’s from being motivated to learn about other cultures through language due to &emsp;the lack of need.
+        <p>To create my project I would need to:</p>
+        <p>&emsp;- Develop an App using MIT App Inventor;</p>
+        <p>&emsp;- Embed specific translating software into the app;</p>
+        <p>&emsp;- Build the corresponding website the receiver would access;</p>
+        <p>&emsp;- The hardware option for those who cannot use their mobile device.</p> 
+        <p>Not having the experience in any of the above is challenging however, I can outsource most of the more technologically difficult aspects with funding. The NFC hardware can be sourced from Tappy Tech and use of existing translation software such as Google Translate and Mirai Translate can be used in the preliminary and beta-releases.</p>
+        <p>As my targeted market audience are those who do not have the access to language learning resources or do not have the motivation for language learning however, have the need to communicate in another language; I believe there is a use case for my project to be created. The barrier created by language differences can be broken through this method and despite the user’s intentions, creates the opportunity for future desire to learn and deepen the brief connection made through dialogue.</p>
+        <p>My final food for thought as apart of my project pitch is a study I came across regarding the impact of a language barrier in the delivery of high-quality medical care. In this study, patients who spoke a language not as common or the translation resources weren’t available were less satisfied with their health care treatment. (Al Shamsi, Almutairi, Al Mashrafi & Al Kalbani 2021) Additionally, the effect of less satisfied patients correlated to workplace stress for health professionals (Al Shamsi, et. all 2021).</p>
+        <br>
+        <h4>Reference List</h4>
+        <p>&emsp;- Al Shamsi, H, Almutairi, A, Al Mashrafi, S & Al Kalbani, T 2021, 'Implications of Language Barriers for Healthcare: A Systematic Review', NCBI, accessed March 21, 2021, from </p>
+        <p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7201401/#:~:text=Language%20barriers%20contribute%20to%20reducing,and%20experience%20more%20adverse%20events">reference link</a></p>
+        <p>&emsp;- TappyTech.com. 2021. Tappy Tech Accessed 21 March 2021.</p>
+        <a href="https://tappytech.com/">https://tappytech.com/</a>
+        <p>&emsp;- Google. 2021. Google Translate. Accessed 21 March 2021.</p>
+        <a href="https://translate.google.com/">https://translate.google.com/</a>
+        <p>&emsp;- Miraitranslate.com. 2021. MiraiTranslator | Innovative Machine Translation. Accessed 21 March 2021.</p>
+        <a href="https://miraitranslate.com/en/">https://miraitranslate.com/en/</a>
+      </div>
+
+    <div class="footer">
+      <h2>Social <br> Links</h2>
+      <a href="https://www.instagram.com/abbydurbridge/">IG</a>
+    </div>
+</div>
+</body>
+</html>
